@@ -1,2 +1,6 @@
-# painting_mass_functions
-CS 109 Project
+# CS 109 Challenge Project
+
+"Painting Mass Functions: Analyzing Van Gogh's Color Palette with Probability" 
+By Ronan Wallace
+
+Van Gogh Painting Dataset: 
